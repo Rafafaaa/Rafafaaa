@@ -16,12 +16,8 @@
 
 <h1>Infos</h1>
 <div>
-  <a href="https://github.com/Rafafaaa/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Rafafaaa&amp;theme=github_dark&amp;show_icons=true&amp;" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/Rafafaaa/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafafaaa&amp;theme=github_dark&amp;" alt="Top Langs">
-  </a>
+  <img height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rafafaaa&amp;theme=github_dark&amp;show_icons=true&amp;">
+  <img height="200px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafafaaa&amp;theme=github_dark&amp;" align="right">
 </div>
 
 <hr />
