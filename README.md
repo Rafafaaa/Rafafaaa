@@ -29,4 +29,7 @@
   <a href="https://br.linkedin.com/in/rafael-cristofali?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://replit.com/@Rafafaaa?path=folder/FIAP%20-%20WEB/2023-08-31">
+    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
+  </a>
 </div>
