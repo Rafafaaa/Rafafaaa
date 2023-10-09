@@ -15,10 +15,7 @@
 <hr />
 
 <h1>Infos</h1>
-<div>
-  <img height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rafafaaa&amp;theme=github_dark&amp;show_icons=true&amp;">
-  <img height="200px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafafaaa&amp;theme=github_dark&amp;" align="right">
-</div>
+<img height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rafafaaa&amp;theme=github_dark&amp;show_icons=true&amp;">
 
 <hr />
 
