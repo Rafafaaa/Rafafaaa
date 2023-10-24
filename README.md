@@ -20,9 +20,8 @@
   <img height="200px" alt="Top Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rafafaaa&theme=github_dark&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right">
 </div>
 
-<hr />
-
 <div align="center">
+  <hr />
   <a href="https://br.linkedin.com/in/rafael-cristofali?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
