@@ -17,7 +17,7 @@
 <h1>Infos</h1>
 <div>
   <img height="150px" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=Rafafaaa&theme=github_dark&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img height="150px" alt="Top Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rafafaaa&theme=github_dark&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right">
+  <img height="150px" alt="Top Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rafafaaa&theme=github_dark&layout=compact&langs_count=20&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right">
 </div>
 
 <div align="center">
