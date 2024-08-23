@@ -31,4 +31,7 @@
   <a href="https://replit.com/@Rafafaaa?path=folder/FIAP%20-%20WEB/2023-08-31">
     <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
   </a>
+  <a href="https://www.tinkercad.com/users/6Un8qc2RJz7-rafael-cristofali">
+    <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad" alt="Tinkercad">
+  </a>
 </div>
